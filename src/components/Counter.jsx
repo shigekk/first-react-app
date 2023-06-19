@@ -16,4 +16,4 @@ function Counter() {
     </div>
   );
 };
-export default App;
+export default Counter;
